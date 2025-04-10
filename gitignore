@@ -1,0 +1,7 @@
+.envmine
+.myenv
+.__pycache__
+
+/envmine/
+/myenv/
+/__pycache__/

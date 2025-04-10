@@ -53,9 +53,9 @@ def local_name():
     user = {
         "name": "Flora",
         "age" : 19,
-        "gender": "perempuan, "
+        "gender": "perempuan"
     }
-    return render_template("local.html", user-user)
+    return render_template("local.html", user=user)
 
 
 if __name__ == "_main_":
